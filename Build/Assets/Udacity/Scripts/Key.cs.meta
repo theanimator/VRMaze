@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2253f7e5b4c14d6ca1d63312bab36c1
+timeCreated: 1479678526
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CoinPoofPrefab: {fileID: 1000012050171414, guid: 251f98f5c04e5b346b37c68d537e30c6,
+      type: 2}
+  - Door: {fileID: 1000012519150908, guid: f9822e67385a4402d9bf680e50d19d58, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
